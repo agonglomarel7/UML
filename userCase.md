@@ -13,3 +13,6 @@ Ce projet permet de gérer la réservation de salles de cours et de matériel p�
 # Objectif du projet :
 Modéliser cette gestion de réservations et de plannings via un diagramme de cas d'utilisation UML, permettant de clarifier les interactions entre les différents utilisateurs (enseignants, étudiants, enseignants responsables) et le système de réservation.
 
+# Diagramme de cas d'utilisation
+
+![Description de l'image](useCase.png)
